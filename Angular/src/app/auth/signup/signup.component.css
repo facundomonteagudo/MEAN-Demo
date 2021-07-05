@@ -1,0 +1,13 @@
+mat-form-field {
+    width: 100%;
+  }
+  
+  mat-spinner {
+    margin: auto;
+  }
+  
+
+:host {
+    display: block;
+    margin-top: 1rem;
+}

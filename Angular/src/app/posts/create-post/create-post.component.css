@@ -1,0 +1,33 @@
+:host {
+    display: block;
+    margin-top: 1rem;
+}
+
+mat-form-field,
+textarea{
+    width: 100%;
+}
+
+mat-spinner{
+    margin: auto;
+}
+
+
+input[type="file"]{
+    visibility: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.img-preview {
+    height: 5rem;    
+    margin: 1rem 0;
+}
+
+.img-preview img{
+    height: 100%;
+}
+
+.img-error{
+    color:red;
+}

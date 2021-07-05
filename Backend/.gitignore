@@ -1,0 +1,7 @@
+# compiled output
+/dist
+# dependencies
+/node_modules
+#images
+/public
+nodemon.json
